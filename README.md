@@ -1,4 +1,4 @@
-Pyth`on`Rails Templates
+Pyth*on*Rails Templates
 ===
 
 Easy to use and very simple structured templates in python style.
